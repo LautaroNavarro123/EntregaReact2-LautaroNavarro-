@@ -1,0 +1,17 @@
+.contenedorItem {
+    text-align: center;
+    margin: 1rem;
+    background-color: #515b64;
+    border-radius: 1rem;
+}
+
+img {
+    width: 30vw;
+    border-radius: 1rem;
+}
+
+.ItemDetail{
+    color: white;
+    font-family: 'Gill Sans';
+    font-size: 2rem;
+}

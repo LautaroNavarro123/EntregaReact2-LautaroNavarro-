@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    padding: 0.5rem;
+    font-size: 1.3rem;
+    font-family: 'Gill Sans';
+    background-color: #414950;
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    display: inline-block;
+    margin: 0.5rem;
+    text-decoration: none;
+}
+
+.NoList {
+    color: black;
+    text-decoration: none;
+}

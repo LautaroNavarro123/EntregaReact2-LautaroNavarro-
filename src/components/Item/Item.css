@@ -1,0 +1,39 @@
+.cardProducto {
+    border-radius: 1rem;
+    width: 15rem;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #515b64;
+}
+
+.imgProducto {
+    width: 200px;
+    object-fit: contain;
+    border-radius: 1rem;
+}
+
+
+.btnProducto {
+    border-radius: 1rem;
+    background-color: white;
+    color: black;
+    font-size: 1.3rem;
+    width: 10rem;
+    height: 3rem;
+    margin: 1rem;
+    font-family: 'Gill Sans';
+}
+
+p {
+    font-family: 'Gill Sans';
+    margin: 1rem;
+    color: white;
+    padding-bottom: 1rem;
+}
+
+.white {
+    color: white;
+}
