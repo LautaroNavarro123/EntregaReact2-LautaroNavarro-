@@ -16,7 +16,6 @@ const ItemListContainer = ({ greeting }) => {
 
         funcionProductos(idCategoria)
             .then(res => setProductos(res))
-            .catch(error => console.error(error))
     }, [idCategoria])
 
 

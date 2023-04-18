@@ -9,7 +9,7 @@ const NavBar = () => {
         <h1 className="NoList">Black&White</h1>
       </Link>
       <ul className="NoList">
-        <li>
+        <li className="Nolist">
           <NavLink to={`/categoria/1`}>Sacos</NavLink>
         </li>
 
